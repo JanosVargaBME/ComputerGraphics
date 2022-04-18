@@ -1,1 +1,3 @@
-"# Computer Graphics homeworks from the First semester of 2021/2022" 
+# Computer Graphics homeworks from the First semester of 2021/2022
+
+## Descriptions
